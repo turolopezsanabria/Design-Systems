@@ -1,75 +1,97 @@
 # Design-Systems
 Design Systems Benchmark
 
-https://design.acl.com/page/Home
-http://opensource.adobe.com/spectrum-css/
-https://ant.design/
-http://astrum.nodividestudio.com/
-https://at-ui.github.io/at-ui/#/en
-https://atlaskit.atlassian.com/
-https://designsystem.gov.au/
-https://design.axa.com/web-guidelines/
-https://backpack.github.io/
-https://blueprintjs.com/
-https://bolt-design-system.com/
-http://getbootstrap.com/
-https://buffer.com/style-guide
-https://design.bulb.co.uk/#/patterns/styles/colors/README.md
-https://canvas.hubspot.com/
-http://www.carbondesignsystem.com/
-https://vmware.github.io/clarity/
-http://style.codeforamerica.org/
-https://comet.discoveryeducation.com/index.html
-http://toolkit.usertesting.com/
-https://elastic.github.io/eui/#/
-https://element.eleme.io/#/en-US
-https://ether.thescenery.co/
-https://etrade.design/
-https://evergreen.segment.com/
-https://docs.google.com/spreadsheets/d/1_sQfa3fLuL97EDHSPC5-KoFC8qcIqZrkpU1WQ8bx4NQ/edit#gid=2042013727
-http://feelix.myob.com/
-https://www.formstack.com/brand
-https://gel.westpacgroup.com.au/
-https://design.gitlab.com/#/
-https://design-system.service.gov.uk/
-https://v2.grommet.io/
-http://style.helpscout.com/
-https://design.herokai.com/purple3/
-http://uniform.hudl.com/
-https://kalo.design/
-https://lexicondesign.io/
-https://www.lightningdesignsystem.com/
-https://rizzo.lonelyplanet.com/styleguide/design-elements/colours
-http://appnexus.github.io/lucid/
-https://ux.mailchimp.com/patterns
-https://marvelapp.com/styleguide/overview/introduction
-https://material.io/
-https://material-ui.com/
-https://developer.microsoft.com/en-us/windows/apps/design
-https://developer.microsoft.com/en-us/fabric
-https://mineral-ui.com/
-http://designsystem.morningstar.com/
-https://www.oracle.com/webfolder/ux/middleware/alta/index.html
-https://origami.design/
-https://design.pega.com/
-https://design.firefox.com/photon/welcome.html
-https://design-system.pluralsight.com/
-https://www.predix-ui.com/#/home
-https://pricelinelabs.github.io/design-system/
-https://primer.style/components
-https://purecss.io/
-https://quasar-framework.org/
-https://designsystem.quickbooks.com/
-https://jetbrains.github.io/ring-ui/master/index.html
-http://www.design.infojobs.net/rubik/
-http://danmalarkey.github.io/schema/
-https://semantic-ui.com/
-http://styleguide.servicenow.com/#!/
-https://polaris.shopify.com/
-https://stackoverflow.design/
-https://designsystem.digital.gov/
-https://walmartlabs.github.io/web-style-guide/
-http://design-system.wonderbly.com/
-https://design.workday.com/
-https://www.yelp.com/styleguide
-https://garden.zendesk.com/
+- http://www.bbc.co.uk/gel/guidelines/category/foundations
+- https://github.com/alexpate/awesome-design-systems
+- https://github.com/streamich/awesome-styleguides
+- https://building.coursera.org/coursera-ui/?selectedKind=basic.Select&selectedStory=TypeAheadV2&full=0&addons=0&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel
+- https://ds.gumgum.com/stable/index.html
+- https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0
+- https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Getting%20started&full=0&addons=0&stories=1&panelRight=0
+- http://developer.royalcanin.com/ui_assets/brand_identity/colour.html
+- https://instacart.github.io/Snacks/
+- https://www.familysearch.org/frontier/styleguide/
+- http://bloom.appearhere.co.uk/
+- https://hedwig-docs.herokuapp.com/bring.html#/
+- https://cloudflare.github.io/cf-ui/
+- http://mesosphere.github.io/cnvs/
+- https://pinterest.github.io/gestalt/#/
+- https://protocol.mozilla.org/
+- https://ux.opower.com/opattern/buttons.html
+- http://news.design.systems/
+- https://www.canva.com/learn/website-color-schemes/
+- https://thumbprint.design/
+- https://github.com/alexpate/awesome-design-systems
+- https://walmartlabs.github.io/web-style-guide/#components
+- https://design.acl.com/page/Home
+- http://opensource.adobe.com/spectrum-css/
+- https://ant.design/
+- http://astrum.nodividestudio.com/
+- https://at-ui.github.io/at-ui/#/en
+- https://atlaskit.atlassian.com/
+- https://designsystem.gov.au/
+- https://design.axa.com/web-guidelines/
+- https://backpack.github.io/
+- https://blueprintjs.com/
+- https://bolt-design-system.com/
+- http://getbootstrap.com/
+- https://buffer.com/style-guide
+- https://design.bulb.co.uk/#/patterns/styles/colors/README.md
+- https://canvas.hubspot.com/
+- http://www.carbondesignsystem.com/
+- https://vmware.github.io/clarity/
+- http://style.codeforamerica.org/
+- https://comet.discoveryeducation.com/index.html
+- http://toolkit.usertesting.com/
+- https://elastic.github.io/eui/#/
+- https://element.eleme.io/#/en-US
+- https://ether.thescenery.co/
+- https://etrade.design/
+- https://evergreen.segment.com/
+- https://docs.google.com/spreadsheets/d/1_sQfa3fLuL97EDHSPC5-KoFC8qcIqZrkpU1WQ8bx4NQ/edit#gid=2042013727
+- http://feelix.myob.com/
+- https://www.formstack.com/brand
+- https://gel.westpacgroup.com.au/
+- https://design.gitlab.com/#/
+- https://design-system.service.gov.uk/
+- https://v2.grommet.io/
+- http://style.helpscout.com/
+- https://design.herokai.com/purple3/
+- http://uniform.hudl.com/
+- https://kalo.design/
+- https://lexicondesign.io/
+- https://www.lightningdesignsystem.com/
+- https://rizzo.lonelyplanet.com/styleguide/design-elements/colours
+- http://appnexus.github.io/lucid/
+- https://ux.mailchimp.com/patterns
+- https://marvelapp.com/styleguide/overview/introduction
+- https://material.io/
+- https://material-ui.com/
+- https://developer.microsoft.com/en-us/windows/apps/design
+- https://developer.microsoft.com/en-us/fabric
+- https://mineral-ui.com/
+- http://designsystem.morningstar.com/
+- https://www.oracle.com/webfolder/ux/middleware/alta/index.html
+- https://origami.design/
+- https://design.pega.com/
+- https://design.firefox.com/photon/welcome.html
+- https://design-system.pluralsight.com/
+- https://www.predix-ui.com/#/home
+- https://pricelinelabs.github.io/design-system/
+- https://primer.style/components
+- https://purecss.io/
+- https://quasar-framework.org/
+- https://designsystem.quickbooks.com/
+- https://jetbrains.github.io/ring-ui/master/index.html
+- http://www.design.infojobs.net/rubik/
+- http://danmalarkey.github.io/schema/
+- https://semantic-ui.com/
+- http://styleguide.servicenow.com/#!/
+- https://polaris.shopify.com/
+- https://stackoverflow.design/
+- https://designsystem.digital.gov/
+- https://walmartlabs.github.io/web-style-guide/
+- http://design-system.wonderbly.com/
+- https://design.workday.com/
+- https://www.yelp.com/styleguide
+- https://garden.zendesk.com/
