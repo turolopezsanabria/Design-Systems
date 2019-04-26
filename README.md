@@ -1,97 +1,97 @@
 # Design-Systems
 Design Systems Benchmark
 
-- http://www.bbc.co.uk/gel/guidelines/category/foundations
-- https://github.com/alexpate/awesome-design-systems
-- https://github.com/streamich/awesome-styleguides
-- https://building.coursera.org/coursera-ui/?selectedKind=basic.Select&selectedStory=TypeAheadV2&full=0&addons=0&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel
-- https://ds.gumgum.com/stable/index.html
-- https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0
-- https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Getting%20started&full=0&addons=0&stories=1&panelRight=0
-- http://developer.royalcanin.com/ui_assets/brand_identity/colour.html
-- https://instacart.github.io/Snacks/
-- https://www.familysearch.org/frontier/styleguide/
-- http://bloom.appearhere.co.uk/
-- https://hedwig-docs.herokuapp.com/bring.html#/
-- https://cloudflare.github.io/cf-ui/
-- http://mesosphere.github.io/cnvs/
-- https://pinterest.github.io/gestalt/#/
-- https://protocol.mozilla.org/
-- https://ux.opower.com/opattern/buttons.html
-- http://news.design.systems/
-- https://www.canva.com/learn/website-color-schemes/
-- https://thumbprint.design/
-- https://github.com/alexpate/awesome-design-systems
-- https://walmartlabs.github.io/web-style-guide/#components
-- https://design.acl.com/page/Home
-- http://opensource.adobe.com/spectrum-css/
-- https://ant.design/
-- http://astrum.nodividestudio.com/
-- https://at-ui.github.io/at-ui/#/en
-- https://atlaskit.atlassian.com/
-- https://designsystem.gov.au/
-- https://design.axa.com/web-guidelines/
-- https://backpack.github.io/
-- https://blueprintjs.com/
-- https://bolt-design-system.com/
-- http://getbootstrap.com/
-- https://buffer.com/style-guide
-- https://design.bulb.co.uk/#/patterns/styles/colors/README.md
-- https://canvas.hubspot.com/
-- http://www.carbondesignsystem.com/
-- https://vmware.github.io/clarity/
-- http://style.codeforamerica.org/
-- https://comet.discoveryeducation.com/index.html
-- http://toolkit.usertesting.com/
-- https://elastic.github.io/eui/#/
-- https://element.eleme.io/#/en-US
-- https://ether.thescenery.co/
-- https://etrade.design/
-- https://evergreen.segment.com/
-- https://docs.google.com/spreadsheets/d/1_sQfa3fLuL97EDHSPC5-KoFC8qcIqZrkpU1WQ8bx4NQ/edit#gid=2042013727
-- http://feelix.myob.com/
-- https://www.formstack.com/brand
-- https://gel.westpacgroup.com.au/
-- https://design.gitlab.com/#/
-- https://design-system.service.gov.uk/
-- https://v2.grommet.io/
-- http://style.helpscout.com/
-- https://design.herokai.com/purple3/
-- http://uniform.hudl.com/
-- https://kalo.design/
-- https://lexicondesign.io/
-- https://www.lightningdesignsystem.com/
-- https://rizzo.lonelyplanet.com/styleguide/design-elements/colours
-- http://appnexus.github.io/lucid/
-- https://ux.mailchimp.com/patterns
-- https://marvelapp.com/styleguide/overview/introduction
-- https://material.io/
-- https://material-ui.com/
-- https://developer.microsoft.com/en-us/windows/apps/design
-- https://developer.microsoft.com/en-us/fabric
-- https://mineral-ui.com/
-- http://designsystem.morningstar.com/
-- https://www.oracle.com/webfolder/ux/middleware/alta/index.html
-- https://origami.design/
-- https://design.pega.com/
-- https://design.firefox.com/photon/welcome.html
-- https://design-system.pluralsight.com/
-- https://www.predix-ui.com/#/home
-- https://pricelinelabs.github.io/design-system/
-- https://primer.style/components
-- https://purecss.io/
-- https://quasar-framework.org/
-- https://designsystem.quickbooks.com/
-- https://jetbrains.github.io/ring-ui/master/index.html
-- http://www.design.infojobs.net/rubik/
-- http://danmalarkey.github.io/schema/
-- https://semantic-ui.com/
-- http://styleguide.servicenow.com/#!/
-- https://polaris.shopify.com/
-- https://stackoverflow.design/
-- https://designsystem.digital.gov/
-- https://walmartlabs.github.io/web-style-guide/
-- http://design-system.wonderbly.com/
-- https://design.workday.com/
-- https://www.yelp.com/styleguide
-- https://garden.zendesk.com/
+- [Gel - BBC](http://www.bbc.co.uk/gel/guidelines/category/foundations "Title")
+- [Title](https://github.com/alexpate/awesome-design-systems "Title")
+- [Title](https://github.com/streamich/awesome-styleguides "Title")
+- [Title](https://building.coursera.org/coursera-ui/?selectedKind=basic.Select&selectedStory=TypeAheadV2&full=0&addons=0&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel "Title")
+- [GumGum](https://ds.gumgum.com/stable/index.html "Title")
+- [Tachyons](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0 "Title")
+- [Wix](https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Getting%20started&full=0&addons=0&stories=1&panelRight=0 "Title")
+- [Royal Canin](http://developer.royalcanin.com/ui_assets/brand_identity/colour.html "Title")
+- [Snacks - Instacart](https://instacart.github.io/Snacks/ "Title")
+- [Frontier - FamilySearch](https://www.familysearch.org/frontier/styleguide/ "Title")
+- [Bloom - Appear here](http://bloom.appearhere.co.uk/ "Title")
+- [Bring - Heroku](https://hedwig-docs.herokuapp.com/bring.html#/ "Title")
+- [Title](https://cloudflare.github.io/cf-ui/ "Title")
+- [Title](http://mesosphere.github.io/cnvs/ "Title")
+- [Title](https://pinterest.github.io/gestalt/#/ "Title")
+- [Title](https://protocol.mozilla.org/ "Title")
+- [Title](https://ux.opower.com/opattern/buttons.html "Title")
+- [Title](http://news.design.systems/ "Title")
+- [Title](https://www.canva.com/learn/website-color-schemes/ "Title")
+- [Title](https://thumbprint.design/ "Title")
+- [Title](https://github.com/alexpate/awesome-design-systems "Title")
+- [Title](https://walmartlabs.github.io/web-style-guide/#components "Title")
+- [Title](https://design.acl.com/page/Home "Title")
+- [Title](http://opensource.adobe.com/spectrum-css/ "Title")
+- [Title](https://ant.design/ "Title")
+- [Title](http://astrum.nodividestudio.com/ "Title")
+- [Title](https://at-ui.github.io/at-ui/#/en "Title")
+- [Title](https://atlaskit.atlassian.com/ "Title")
+- [Title](https://designsystem.gov.au/ "Title")
+- [Title](https://design.axa.com/web-guidelines/ "Title")
+- [Title](https://backpack.github.io/ "Title")
+- [Title](https://blueprintjs.com/ "Title")
+- [Title](https://bolt-design-system.com/ "Title")
+- [Title](http://getbootstrap.com/ "Title")
+- [Title](https://buffer.com/style-guide "Title")
+- [Title](https://design.bulb.co.uk/#/patterns/styles/colors/README.md "Title")
+- [Title](https://canvas.hubspot.com/ "Title")
+- [Title](http://www.carbondesignsystem.com/ "Title")
+- [Title](https://vmware.github.io/clarity/ "Title")
+- [Title](http://style.codeforamerica.org/ "Title")
+- [Title](https://comet.discoveryeducation.com/index.html "Title")
+- [Title](http://toolkit.usertesting.com/ "Title")
+- [Title](https://elastic.github.io/eui/#/ "Title")
+- [Title](https://element.eleme.io/#/en-US "Title")
+- [Title](https://ether.thescenery.co/ "Title")
+- [Title](https://etrade.design/ "Title")
+- [Title](https://evergreen.segment.com/ "Title")
+- [Title](https://docs.google.com/spreadsheets/d/1_sQfa3fLuL97EDHSPC5-KoFC8qcIqZrkpU1WQ8bx4NQ/edit#gid=2042013727 "Title")
+- [Title](http://feelix.myob.com/ "Title")
+- [Title](https://www.formstack.com/brand "Title")
+- [Title](https://gel.westpacgroup.com.au/ "Title")
+- [Title](https://design.gitlab.com/#/ "Title")
+- [Title](https://design-system.service.gov.uk/ "Title")
+- [Title](https://v2.grommet.io/ "Title")
+- [Title](http://style.helpscout.com/ "Title")
+- [Title](https://design.herokai.com/purple3/ "Title")
+- [Title](http://uniform.hudl.com/ "Title")
+- [Title](https://kalo.design/ "Title")
+- [Title](https://lexicondesign.io/ "Title")
+- [Title](https://www.lightningdesignsystem.com/ "Title")
+- [Title](https://rizzo.lonelyplanet.com/styleguide/design-elements/colours "Title")
+- [Title](http://appnexus.github.io/lucid/ "Title")
+- [Title](https://ux.mailchimp.com/patterns "Title")
+- [Title](https://marvelapp.com/styleguide/overview/introduction "Title")
+- [Title](https://material.io/ "Title")
+- [Title](https://material-ui.com/ "Title")
+- [Title](https://developer.microsoft.com/en-us/windows/apps/design "Title")
+- [Title](https://developer.microsoft.com/en-us/fabric "Title")
+- [Title](https://mineral-ui.com/ "Title")
+- [Title](http://designsystem.morningstar.com/ "Title")
+- [Title](https://www.oracle.com/webfolder/ux/middleware/alta/index.html "Title")
+- [Title](https://origami.design/ "Title")
+- [Title](https://design.pega.com/ "Title")
+- [Title](https://design.firefox.com/photon/welcome.html "Title")
+- [Title](https://design-system.pluralsight.com/ "Title")
+- [Title](https://www.predix-ui.com/#/home "Title")
+- [Title](https://pricelinelabs.github.io/design-system/ "Title")
+- [Title](https://primer.style/components "Title")
+- [Title](https://purecss.io/ "Title")
+- [Title](https://quasar-framework.org/ "Title")
+- [Title](https://designsystem.quickbooks.com/ "Title")
+- [Title](https://jetbrains.github.io/ring-ui/master/index.html "Title")
+- [Title](http://www.design.infojobs.net/rubik/ "Title")
+- [Title](http://danmalarkey.github.io/schema/ "Title")
+- [Title](https://semantic-ui.com/ "Title")
+- [Title](http://styleguide.servicenow.com/#!/ "Title")
+- [Title](https://polaris.shopify.com/ "Title")
+- [Title](https://stackoverflow.design/ "Title")
+- [Title](https://designsystem.digital.gov/ "Title")
+- [Title](https://walmartlabs.github.io/web-style-guide/ "Title")
+- [Title](http://design-system.wonderbly.com/ "Title")
+- [Title](https://design.workday.com/ "Title")
+- [Title](https://www.yelp.com/styleguide "Title")
+- [Garden Zendesk](https://garden.zendesk.com/ "Title")
