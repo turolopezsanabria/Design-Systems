@@ -48,6 +48,7 @@
 - [Garden Zendesk](https://garden.zendesk.com/ "Garden Zendesk")
 - [Gel - BBC](http://www.bbc.co.uk/gel/guidelines/category/foundations "Gel - BBC")
 - [Gestalt - Pinterest](https://pinterest.github.io/gestalt/#/ "Gestalt - Pinterest")
+- [GLU - Eurostar](https://style.eurostar.com/docs/documentation.html "GLU - Eurostar")
 - [GOV-UK](https://design-system.service.gov.uk/ "GOV-UK")
 - [Grommet](https://v2.grommet.io/ "Grommet")
 - [GumGum](https://ds.gumgum.com/stable/index.html "GumGum")
