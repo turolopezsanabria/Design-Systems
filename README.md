@@ -1,6 +1,6 @@
 # Design-Systems Benchmark
 
-- [Alta - Oracle](https://www.oracle.com/webfolder/ux/middleware/alta/index.html "Alta - Oracle"){:target="_blank"}
+- [Alta - Oracle](https://www.oracle.com/webfolder/ux/middleware/alta/index.html "Alta - Oracle"){target="_blank"}
 - [Ant Design](https://ant.design/ "Ant Design")
 - [Astrum](http://astrum.nodividestudio.com/ "Astrum")
 - [Atlaskit - Atlassian](https://atlaskit.atlassian.com/ "Atlaskit - Atlassian")
