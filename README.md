@@ -1,5 +1,4 @@
-# Design-Systems
-Design Systems Benchmark
+# Design-Systems Benchmark
 
 - [Gel - BBC](http://www.bbc.co.uk/gel/guidelines/category/foundations "Gel - BBC")
 - [Coursera](https://building.coursera.org/coursera-ui/ "Coursera")
