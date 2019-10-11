@@ -71,6 +71,7 @@
 - [Nutanix](http://nutanix.design/ "Nutanix")
 - [One - Priceline](https://pricelinelabs.github.io/design-system/ "One - Priceline")
 - [Opattern - Opower](https://ux.opower.com/opattern/ "Opattern - Opower")
+- [Orbit - Kiwi](https://orbit.kiwi/ "Orbit - Kiwi")
 - [Pajamas - Gitlab](https://design.gitlab.com/#/ "Pajamas - Gitlab")
 - [Palette - Artsy](https://palette.artsy.net/ "Palette - Artsy")
 - [Patterns - Mailchimp](https://ux.mailchimp.com/patterns "Patterns - Mailchimp")
