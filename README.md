@@ -80,7 +80,7 @@
 - [Patterns - Mailchimp](https://ux.mailchimp.com/patterns "Patterns - Mailchimp")
 - [Patterns - City of Boston](https://patterns.boston.gov/ "Patterns - City of Boston")
 - [Pearson](https://uxframework.pearson.com/ "Pearson")
-- [Photon - Firefox](https://design.firefox.com/photon/welcome.html "Photon - Firefox")
+- [Photon - Firefox](https://design.firefox.com/photon/ "Photon - Firefox")
 - [Pivotal](http://styleguide.pivotal.io/about/getting-started "Pivotal")
 - [Plasma - WeWork](http://plasma.guide/ "Plasma - WeWork")
 - [Pluralsight](https://design-system.pluralsight.com/ "Title")
