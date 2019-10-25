@@ -95,7 +95,7 @@
 - [Radius - Nation Builder](https://www.nationbuilder.design/ "Radius - Nation Builder")
 - [Ratio - Rambler](https://ui-kit.rambler.ru/#/ "Ratio - Rambler") 
 - [Rizzo - Lonely Planet](https://rizzo.lonelyplanet.com/styleguide/design-elements/colours "Rizzo - Lonely Planet")
-- [Royal Canin](http://developer.royalcanin.com/ui_assets/brand_identity/colour.html "Royal Canin")
+- [Royal Canin](http://developer.royalcanin.com/ "Royal Canin")
 - [Rubik - Infojobs](http://www.design.infojobs.net/rubik/ "Rubik - Infojobs")
 - [Fiori - SAP](https://sap.github.io/fundamental/getting-started.html "Fiori - SAP")
 - [Schema](http://danmalarkey.github.io/schema/ "Schema")
