@@ -19,6 +19,7 @@
 - [Blueprint - Palantir](https://blueprintjs.com/ "Blueprint - Palantir")
 - [Blocks - CBRE Build](https://blocks.cbrebuild.com/ "Blocks - CBRE Build")
 - [Bolt - Pega](https://bolt-design-system.com/ "Bolt - Pega")
+- [Bold - Universidade Federal de Santa Catarina](https://bold.bridge.ufsc.br/ "Bold - Universidade Federal de Santa Catarina")
 - [Bootstrap](http://getbootstrap.com/ "Bootstrap")
 - [Bring - Heroku](https://hedwig-docs.herokuapp.com/bring.html#/ "Bring - Heroku")
 - [Buffer](https://buffer.com/style-guide "Buffer")
