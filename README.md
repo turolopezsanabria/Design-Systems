@@ -37,6 +37,7 @@
 - [Coop](https://coop-design-system.herokuapp.com/ "Coop")
 - [Cosmos - Pega](https://design.pega.com/ "Cosmos - Pega")
 - [Coursera](https://building.coursera.org/coursera-ui/ "Coursera")
+- [Duet - LocalTapiola and Turva](https://www.duetds.com/ "Duet")
 - [Duolingo](https://www.duolingo.com/design/ "Duolingo")
 - [Elastic](https://elastic.github.io/eui/#/ "Elastic")
 - [Element](https://element.eleme.io/#/en-US "Element")
