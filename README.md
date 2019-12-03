@@ -29,6 +29,7 @@
 - [Carwow](https://styleguide.carwow.co.uk/ "Carwow")
 - [Cedar](https://rei.github.io/rei-cedar-docs/ "Cedar")
 - [Chameleon](https://pusher.github.io/chameleon/ "Chameleon")
+- [Chicago](https://design.chicago.gov/ "Chicago")
 - [Cirrus - Predix](https://www.predix-ui.com/#/home "Cirrus - Predix")
 - [Clarity](https://vmware.github.io/clarity/ "Clarity")
 - [Cloudflare](https://cloudflare.github.io/cf-ui/ "Cloudflare")
