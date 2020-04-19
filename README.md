@@ -63,6 +63,7 @@
 - [JetBrains](https://jetbrains.github.io/ring-ui/master/index.html "JetBrains")
 - [Kalo](https://kalo.design/ "Kalo")
 - [Lexicon - Liferay](https://lexicondesign.io/ "Lexicon - Liferay")
+- [Lion - ING](https://lion-web-components.netlify.app/ "Lion - ING")
 - [Lightning - Salesforce](https://www.lightningdesignsystem.com/ "Lightning - Salesforce")
 - [Lucid-UI AppNexus](http://appnexus.github.io/lucid/ "Lucid-UI AppNexus")
 - [Luna - Sainsburys](https://luna.sainsburys.co.uk/ "Luna - Sainsburys")
