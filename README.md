@@ -26,6 +26,7 @@
 - [Buffer](https://buffer.com/style-guide "Buffer")
 - [Bulb - Solar](https://design.bulb.co.uk/#/patterns/styles/colors/README.md "Bulb - Solar")
 - [Canvas - Hubspot](https://canvas.hubspot.com/ "Canvas - Hubspot")
+- [Canvas - Workday](https://design.workday.com/ "Canvas - Workday")
 - [Carbon - IBM](http://www.carbondesignsystem.com/ "Carbon - IBM")
 - [Carwow](https://styleguide.carwow.co.uk/ "Carwow")
 - [Cedar](https://rei.github.io/rei-cedar-docs/ "Cedar")
@@ -140,5 +141,4 @@
 - [Windows - Microsoft](https://developer.microsoft.com/en-us/windows/apps/design "Windows - Microsoft")
 - [Wix](https://wix-wix-style-react.surge.sh/?selectedKind=Introduction&selectedStory=Getting%20started&full=0&addons=0&stories=1&panelRight=0 "Wix")
 - [Wonderbly](http://design-system.wonderbly.com/ "Wonderbly")
-- [Workday](https://design.workday.com/ "Workday")
 - [Yelp](https://www.yelp.com/styleguide "Yelp")
