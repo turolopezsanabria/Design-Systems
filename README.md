@@ -133,6 +133,7 @@
 - [USPTO](http://uspto.github.io/designpatterns/1.x/docs/index.html "USPTO")
 - [uStyle - uSwitch](https://ustyle.guide/ "UStyle - uSwitch") 
 - [Vanilla - Ubuntu](https://docs.vanillaframework.io/en/ "Vanilla - Ubuntu")
+- [Vercel](https://vercel.com/design "Vercel")
 - [VTEX](https://styleguide.vtex.com/ "VTEX")
 - [Walmart](https://walmartlabs.github.io/web-style-guide/ "Walmart")
 - [Westpac](https://gel.westpacgroup.com.au/GUI/WBC/ "Westpac")
@@ -141,4 +142,3 @@
 - [Wonderbly](http://design-system.wonderbly.com/ "Wonderbly")
 - [Workday](https://design.workday.com/ "Workday")
 - [Yelp](https://www.yelp.com/styleguide "Yelp")
-- [Zeit](https://zeit.co/design "Zeit")
