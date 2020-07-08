@@ -115,6 +115,7 @@
 - [Service Now](http://styleguide.servicenow.com/#!/ "Service Now")
 - [Sky](https://www.sky.com/toolkit "Sky")
 - [Snacks - Instacart](https://instacart.github.io/Snacks/ "Snacks - Instacart")
+- [Spaden - Finn](http://opensource.finn.no/spaden/ "Spaden - Finn")
 - [Spectrum - Adobe](https://spectrum.adobe.com/ "Spectrum - Adobe")
 - [Spectrum CSS Opensource - Adobe](http://opensource.adobe.com/spectrum-css/ "Spectrum CSS Opensource - Adobe")
 - [Skin - eBay](https://ebay.github.io/skin/ "Skin - eBay")
