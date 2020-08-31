@@ -30,6 +30,7 @@
 - [Carbon - IBM](http://www.carbondesignsystem.com/ "Carbon - IBM")
 - [Carwow](https://styleguide.carwow.co.uk/ "Carwow")
 - [Cedar](https://rei.github.io/rei-cedar-docs/ "Cedar")
+- [Chakra UI](https://chakra-ui.com/ "Chakra UI")
 - [Chameleon](https://pusher.github.io/chameleon/ "Chameleon")
 - [Chicago](https://design.chicago.gov/ "Chicago")
 - [Cirrus - Predix](https://www.predix-ui.com/#/home "Cirrus - Predix")
