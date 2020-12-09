@@ -134,6 +134,7 @@
 - [Thumbprint - Thumbtack](https://thumbprint.design/ "Thumbprint - Thumbtack")
 - [Toolkit - UserTesting](http://toolkit.usertesting.com/ "Toolkit - UserTesting")
 - [U.S. Web Design System](https://designsystem.digital.gov/ "U.S. Web Design System")
+- [UI5 Web Components](https://sap.github.io/ui5-webcomponents)
 - [Uniform - Hudl](http://uniform.hudl.com/ "Uniform - Hudl")
 - [University of Melbourne](https://web.unimelb.edu.au/ "University of Melbourne")
 - [USPTO](http://uspto.github.io/designpatterns/1.x/docs/index.html "USPTO")
