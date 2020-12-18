@@ -88,6 +88,7 @@
 - [Opattern - Opower](https://ux.opower.com/opattern/ "Opattern - Opower")
 - [Orbit - Kiwi](https://orbit.kiwi/ "Orbit - Kiwi")
 - [Origo - NRK](https://static.nrk.no/origo/latest/ "Origo - NRK")
+- [Oxygen - Repsol](https://digitalsystem.repsol.com/ "Oxygen - Repsol")
 - [Pajamas - Gitlab](https://design.gitlab.com/#/ "Pajamas - Gitlab")
 - [Palette - Artsy](https://palette.artsy.net/ "Palette - Artsy")
 - [Patterns - Mailchimp](https://ux.mailchimp.com/patterns "Patterns - Mailchimp")
