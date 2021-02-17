@@ -13,6 +13,7 @@
 - [Australian Government](https://designsystem.gov.au/ "Australian Government")
 - [AXA](https://design.axa.com/web-guidelines/ "AXA")
 - [Barnardo](https://design-system.barnardos.org.uk/ "Barnardo")
+- [Bedrock-layout](https://bedrock-layout.dev/)
 - [Backpack - Skyscanner](https://backpack.github.io/ "Backpack - Skyscanner")
 - [Base Web - Uber](https://baseweb.design/ "Base Web - Uber")
 - [Beeline](http://beelinedesignsystem.com/ "Beeline")
