@@ -68,6 +68,7 @@
 - [Grommet](https://v2.grommet.io/ "Grommet")
 - [GumGum](https://ds.gumgum.com/stable/index.html "GumGum")
 - [Help Scout](http://style.helpscout.com/ "Help Scout")
+- [HPE - Hewlett Packard Enterprise](https://design-system.hpe.design/ "HP Enterprise")
 - [Human Interface Guidelines - Apple](https://developer.apple.com/design "Human Interface Guidelines - Apple")
 - [JetBrains](https://jetbrains.github.io/ring-ui/master/index.html "JetBrains")
 - [Junipero - Poool](https://junipero.design/ "Junipero - Poool")
