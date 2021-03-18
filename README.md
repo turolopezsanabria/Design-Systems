@@ -147,6 +147,7 @@
 - [uStyle - uSwitch](https://ustyle.guide/ "UStyle - uSwitch") 
 - [Vanilla - Ubuntu](https://docs.vanillaframework.io/en/ "Vanilla - Ubuntu")
 - [Vercel](https://vercel.com/design "Vercel")
+- [Vitamin - Decathlon](https://www.decathlon.design/ "Vitamin - Decathlon")
 - [VTEX](https://styleguide.vtex.com/ "VTEX")
 - [Walmart](https://walmartlabs.github.io/web-style-guide/ "Walmart")
 - [Westpac](https://gel.westpacgroup.com.au/GUI/WBC/ "Westpac")
