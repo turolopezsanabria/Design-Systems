@@ -84,13 +84,13 @@
 - [Material-UI](https://material-ui.com/ "Material-UI")
 - [Material - Google](https://material.io/ "Material - Google")
 - [Mesosphere](http://mesosphere.github.io/cnvs/ "Mesosphere")
-- <strike>Mineral</strike> <!---(https://mineral-ui.com/) -->
+- <strike>Mineral</strike> <!--- https://mineral-ui.com/ -->
 - [Mística - Telefónica](https://brandfactory.telefonica.com/d/iSp7b1DkYygv "Telefónica")
 - [MixPanel](https://design.mixpanel.com/ "MixPanel")
 - [Mongo DB](http://mongodb.design/#/ui-design-system/welcome "Mongo DB")
 - [Morningstar](http://designsystem.morningstar.com/ "Morningstar")
 - [Nutanix](http://nutanix.design/ "Nutanix")
-- [One - Priceline](https://pricelinelabs.github.io/design-system/ "One - Priceline")
+- <strike>One - Priceline</strike> <!--- https://pricelinelabs.github.io/design-system/-->
 - [Opattern - Opower](https://ux.opower.com/opattern/ "Opattern - Opower")
 - [Orbit - Kiwi](https://orbit.kiwi/ "Orbit - Kiwi")
 - [Origo - NRK](https://static.nrk.no/origo/latest/ "Origo - NRK")
