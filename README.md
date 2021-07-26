@@ -18,6 +18,7 @@
 - [Backpack - Skyscanner](https://backpack.github.io/ "Backpack - Skyscanner")
 - [Base Web - Uber](https://baseweb.design/ "Base Web - Uber")
 - [Beeline](http://beelinedesignsystem.com/ "Beeline")
+- [Bitnami - Vmware](https://design.bitnami.com/)
 - [BLiP](https://design.blip.ai/ "BLiP")
 - [Bloom - Appear here](http://bloom.appearhere.co.uk/ "Bloom - Appear here")
 - [Blueprint - Palantir](https://blueprintjs.com/ "Blueprint - Palantir")
