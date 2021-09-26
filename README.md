@@ -45,6 +45,7 @@
 - [Comet - Discovery Education](https://comet.discoveryeducation.com/index.html "Comet - Discovery Education")
 - [Cookbook - Yelp](https://www.yelp.com/styleguide "Cookbook - Yelp")
 - [Coop](https://coop-design-system.herokuapp.com/ "Coop")
+- [Copperleaf](https://design.copperleaf.cloud/ "Copperleaf")
 - [Cosmos - Pega](https://design.pega.com/ "Cosmos - Pega")
 - [Coursera](https://building.coursera.org/coursera-ui/ "Coursera")
 - [Duet - LocalTapiola and Turva](https://www.duetds.com/ "Duet")
@@ -93,6 +94,7 @@
 - [Morningstar](http://designsystem.morningstar.com/ "Morningstar")
 - [Nutanix](http://nutanix.design/ "Nutanix")
 - <strike>One - Priceline</strike> <!--- https://pricelinelabs.github.io/design-system/-->
+- [Nulogy](https://nulogy.design/ "Nulogy")
 - [Opattern - Opower](https://ux.opower.com/opattern/ "Opattern - Opower")
 - [Orbit - Kiwi](https://orbit.kiwi/ "Orbit - Kiwi")
 - [Origo - NRK](https://static.nrk.no/origo/latest/ "Origo - NRK")
@@ -102,6 +104,7 @@
 - [Patterns - Mailchimp](https://ux.mailchimp.com/patterns "Patterns - Mailchimp")
 - [Patterns - City of Boston](https://patterns.boston.gov/ "Patterns - City of Boston")
 - [Pearson](https://uxframework.pearson.com/ "Pearson")
+- [Pharos](https://pharos.jstor.org/ "Pharos")
 - [Photon - Firefox](https://design.firefox.com/photon/ "Photon - Firefox")
 - [Pivotal](http://styleguide.pivotal.io/about/getting-started "Pivotal")
 - [Plasma - WeWork](http://plasma.guide/ "Plasma - WeWork")
