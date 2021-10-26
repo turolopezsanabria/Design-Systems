@@ -110,6 +110,7 @@
 - [Photon - Firefox](https://design.firefox.com/photon/ "Photon - Firefox")
 - [Pivotal](http://styleguide.pivotal.io/about/getting-started "Pivotal")
 - [Plasma - WeWork](http://plasma.guide/ "Plasma - WeWork")
+- [Plural - Sngular](https://pluralds.sngular.com/)
 - [Pluralsight](https://design-system.pluralsight.com/ "Title")
 - [Polaris - Shopify](https://polaris.shopify.com/ "Polaris - Shopify")
 - [Primer](https://primer.style/components "Primer")
