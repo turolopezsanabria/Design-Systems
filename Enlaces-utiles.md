@@ -20,36 +20,35 @@
 
 ## Ilustraciones
 
-- https://blush.design/
+- [Blush design](https://blush.design/)
 
 ## Tipografía
 
 - https://www.modularscale.com/
 - https://type-scale.com/
 - https://www.layoutgridcalculator.com/typographic-scale/
-- https://spencermortensen.com/articles/typographic-scale/
+- https://spencermortensen.com/articles/typographic-scale/g
 
-## Aprende Figma
+## Figma
 
-- https://www.instagram.com/fazurrehman/
+- [Instagram fazurrehman](https://www.instagram.com/fazurrehman/)
 
 ## Layout Grid
 
-- https://galatea.bancsabadell.com/83925bc0e/p/60ac40-layout-system/b/74f8eb
+- [Galatea from Bank Sabadell](https://galatea.bancsabadell.com/83925bc0e/p/60ac40-layout-system/b/74f8eb)
+- [Everything you need to know about spacing & layout grids](https://www.uiprep.com/blog/everything-you-need-to-know-about-spacing-layout-grids)
 
 ## Elevaciones y Sombras
 
-- https://material.io/design/environment/elevation.html
-
-## Herramientas para ayudarte a decidir
-
-- https://untools.co/
+- [Elevations in Material](https://material.io/design/environment/elevation.html)
 
 ## Tokens y Diseño Atómico
 
 - https://github.com/design-tokens
 - https://bradfrost.com/blog/post/extending-atomic-design/
 - https://snowball.digital/blog/intro-to-atomic-design
+- https://dbanks.design/blog/documenting-design-tokens/
+- [https://specifyapp.com/](Specify | Design Data Platform (DDP))
 
 ## Herramientas
 
@@ -57,3 +56,14 @@
 - https://github.com/amzn/style-dictionary#quick-start
 - https://www.modulz.app/
 - https://penpot.app/
+- https://untools.co/
+
+## Motion
+
+- [Introducing Transition Presets to the NewsKit Design System](https://medium.com/news-uk-technology/introducing-transition-presets-to-the-newskit-design-system-80c9aebc8d2d)
+- 
+
+
+## Organisation
+
+- [How we organise our Design System libraries to help Doctolib desi](https://medium.com/doctolib/how-we-organise-our-design-system-libraries-to-help-doctolib-designers-use-more-than-70-000-c15237c81f6c)
