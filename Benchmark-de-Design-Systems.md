@@ -43,6 +43,7 @@
 - [Code for America](http://style.codeforamerica.org/ "Code for America")
 - [Comet - Discovery Education](https://comet.discoveryeducation.com/index.html "Comet - Discovery Education")
 - [Cookbook - Yelp](https://www.yelp.com/styleguide "Cookbook - Yelp")
+- [Component Gallery](https://component.gallery/ "Component Gallery")
 - [Coop](https://coop-design-system.herokuapp.com/ "Coop")
 - [Copperleaf](https://design.copperleaf.cloud/ "Copperleaf")
 - [Cosmos - Pega](https://design.pega.com/ "Cosmos - Pega")
