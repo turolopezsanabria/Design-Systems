@@ -158,6 +158,7 @@
 - [Vanilla - Ubuntu](https://docs.vanillaframework.io/en/ "Vanilla - Ubuntu")
 - [Vercel](https://vercel.com/design "Vercel")
 - [Vitamin - Decathlon](https://www.decathlon.design/ "Vitamin - Decathlon")
+- [Vitamin - Auna](https://vitamindesignsystem.auna.org/ "Vitamin - Auna")
 - [VTEX](https://styleguide.vtex.com/ "VTEX")
 - [Walmart](https://walmartlabs.github.io/web-style-guide/ "Walmart")
 - [Westpac](https://gel.westpacgroup.com.au/GUI/WBC/ "Westpac")
