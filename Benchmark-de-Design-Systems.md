@@ -86,6 +86,7 @@
 - [Grommet](https://v2.grommet.io/ "Grommet")
 - [GumGum](https://ds.gumgum.com/stable/index.html "GumGum")
 - [Help Scout](http://style.helpscout.com/ "Help Scout")
+- [Horizon](https://zeroheight.com/53100aa68/p/608c4e-overview "Horizon - Marktplaats")
 - [HPE - Hewlett Packard Enterprise](https://design-system.hpe.design/ "HP Enterprise")
 - [Human Interface Guidelines - Apple](https://developer.apple.com/design "Human Interface Guidelines - Apple")
 - [iTwinUI](https://itwin.github.io/iTwinUI-react/?path=/story/overview--page "iTwinUI")
