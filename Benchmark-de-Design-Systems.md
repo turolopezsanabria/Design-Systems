@@ -63,6 +63,7 @@
 - [Crayons - Freshworks](https://crayons.freshworks.com/ "Crayons - Freshworks")
 - [D2DS - Day2](https://dcos-labs.github.io/ui-kit/ "D2DS -  Day 2")
 - [Dell DS](https://www.delldesignsystem.com/ "Dell DS")
+- [Docplanner](https://designsystem.docplanner.design/ "Docplanner")
 - [Duet - LocalTapiola and Turva](https://www.duetds.com/ "Duet")
 - [Duolingo](https://www.duolingo.com/design/ "Duolingo")
 - [Elastic](https://elastic.github.io/eui/#/ "Elastic")
