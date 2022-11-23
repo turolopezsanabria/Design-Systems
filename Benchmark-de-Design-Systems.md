@@ -167,6 +167,7 @@
 - [Seeds - Sprout Social](https://sproutsocial.com/seeds/ "Seeds - Sprout Social")
 - [Semantic UI](https://semantic-ui.com/ "Semantic UI")
 - [Service Now](http://styleguide.servicenow.com/#!/ "Service Now")
+- [Shoelace](https://shoelace.style/ "Shoelace")
 - [Sky](https://www.sky.com/toolkit "Sky")
 - [Snacks - Instacart](https://instacart.github.io/Snacks/ "Snacks - Instacart")
 - [Spaden - Finn](http://opensource.finn.no/spaden/ "Spaden - Finn")
