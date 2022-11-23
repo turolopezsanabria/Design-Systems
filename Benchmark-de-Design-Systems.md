@@ -78,6 +78,7 @@
 - [Help Scout](http://style.helpscout.com/ "Help Scout")
 - [HPE - Hewlett Packard Enterprise](https://design-system.hpe.design/ "HP Enterprise")
 - [Human Interface Guidelines - Apple](https://developer.apple.com/design "Human Interface Guidelines - Apple")
+- [iTwinUI](https://itwin.github.io/iTwinUI-react/?path=/story/overview--page "iTwinUI")
 - [JetBrains](https://jetbrains.github.io/ring-ui/master/index.html "JetBrains")
 - [Junipero - Poool](https://junipero.design/ "Junipero - Poool")
 - [Kaizen - Culture Amp](https://cultureamp.design/ "Kaizen - Culture Amp")
