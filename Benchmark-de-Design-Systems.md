@@ -81,6 +81,7 @@
 - [Gel - BBC](http://www.bbc.co.uk/gel/guidelines/category/foundations "Gel - BBC")
 - [Gestalt - Pinterest](https://pinterest.github.io/gestalt/#/ "Gestalt - Pinterest")
 - [GLU - Eurostar](https://style.eurostar.com/docs/documentation.html "GLU - Eurostar")
+- [Gold DS - Australian Government](https://gold.designsystemau.org/ "Gold DS - Australian Government")
 - [GOV-UK](https://design-system.service.gov.uk/ "GOV-UK")
 - [Grafana](https://developers.grafana.com/ "Grafana")
 - [Grommet](https://v2.grommet.io/ "Grommet")
