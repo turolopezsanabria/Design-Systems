@@ -57,6 +57,7 @@
 - [Coral - Talend](https://design.talend.com/?path=/docs/welcome--page&globals=theme:light "Coral - Talend")
 - [Cosmos - Pega](https://design.pega.com/ "Cosmos - Pega")
 - [Coursera](https://building.coursera.org/coursera-ui/ "Coursera")
+- [Crayons - Freshworks](https://crayons.freshworks.com/ "Crayons - Freshworks")
 - [D2DS - Day2](https://dcos-labs.github.io/ui-kit/ "D2DS -  Day 2")
 - [Dell DS](https://www.delldesignsystem.com/ "Dell DS")
 - [Duet - LocalTapiola and Turva](https://www.duetds.com/ "Duet")
