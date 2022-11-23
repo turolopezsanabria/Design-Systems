@@ -117,6 +117,7 @@
 - [Pearson](https://uxframework.pearson.com/ "Pearson")
 - [Pharos](https://pharos.jstor.org/ "Pharos")
 - [Photon - Firefox](https://design.firefox.com/photon/ "Photon - Firefox")
+- [Phorkit - Phork](https://phorkit.phork.org/ "Phorkit - Phork")
 - [Pivotal](http://styleguide.pivotal.io/about/getting-started "Pivotal")
 - [Plasma - WeWork](http://plasma.guide/ "Plasma - WeWork")
 - [Plural - Sngular](https://pluralds.sngular.com/)
