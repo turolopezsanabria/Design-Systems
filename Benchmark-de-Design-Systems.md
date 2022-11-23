@@ -189,6 +189,7 @@
 - [University of Melbourne](https://web.unimelb.edu.au/ "University of Melbourne")
 - [USPTO](http://uspto.github.io/designpatterns/1.x/docs/index.html "USPTO")
 - [uStyle - uSwitch](https://ustyle.guide/ "UStyle - uSwitch")
+- [Vattenfall](https://digitaldesign.vattenfall.com/ "Vattenfall")
 - [Veterans Affairs](https://design.va.gov/ "VA")
 - [Vanilla - Ubuntu](https://docs.vanillaframework.io/en/ "Vanilla - Ubuntu")
 - [Vercel](https://vercel.com/design "Vercel")
