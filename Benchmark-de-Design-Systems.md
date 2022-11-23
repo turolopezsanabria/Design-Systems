@@ -72,6 +72,7 @@
 - [Gestalt - Pinterest](https://pinterest.github.io/gestalt/#/ "Gestalt - Pinterest")
 - [GLU - Eurostar](https://style.eurostar.com/docs/documentation.html "GLU - Eurostar")
 - [GOV-UK](https://design-system.service.gov.uk/ "GOV-UK")
+- [Grafana](https://developers.grafana.com/ "Grafana")
 - [Grommet](https://v2.grommet.io/ "Grommet")
 - [GumGum](https://ds.gumgum.com/stable/index.html "GumGum")
 - [Help Scout](http://style.helpscout.com/ "Help Scout")
