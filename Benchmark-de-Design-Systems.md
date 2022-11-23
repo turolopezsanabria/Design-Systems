@@ -16,6 +16,7 @@
 - [Bedrock-layout](https://bedrock-layout.dev/)
 - [Backbase](https://designsystem.backbase.com/)
 - [Backpack - Skyscanner](https://backpack.github.io/ "Backpack - Skyscanner")
+- [Backlight](https://backlight.dev/ "Backlight")
 - [Base Web - Uber](https://baseweb.design/ "Base Web - Uber")
 - [Beeline](http://beelinedesignsystem.com/ "Beeline")
 - [Bitnami - Vmware](https://design.bitnami.com/)
