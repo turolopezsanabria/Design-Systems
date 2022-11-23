@@ -63,6 +63,7 @@
 - [eTrade](https://etrade.design/ "eTrade")
 - [Eufemia - DNB](https://eufemia.dnb.no/ "Eufemia - DNB")
 - [Evergreen - Segment](https://evergreen.segment.com/ "Evergreen - Segment")
+- [Explorer 1 - NASA](https://nasa-jpl.github.io/explorer-1/ "Explorer 1 - NASA")
 - [Fabric - Microsoft](https://developer.microsoft.com/en-us/fabric "Fabric - Microsoft")
 - [Feelix - Myob](http://feelix.myob.com/ "Feelix - Myob")
 - [Flame - Banco Santander](https://bancosantander.invisionapp.com/dsm/santander-group/flame-ds-santander?mode=preview "Flame - Banco Santander")
