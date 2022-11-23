@@ -91,6 +91,7 @@
 - [Grommet](https://v2.grommet.io/ "Grommet")
 - [GroupUI - Volkswagen](https://volkswagen.frontify.com/d/rzB71PwpjXgt/documentation#/overview/introduction "GroupUI - Volkswagen")
 - [GumGum](https://ds.gumgum.com/stable/index.html "GumGum")
+- [Headless UI](https://headlessui.com/ "Headless UI")
 - [Help Scout](http://style.helpscout.com/ "Help Scout")
 - [Horizon](https://zeroheight.com/53100aa68/p/608c4e-overview "Horizon - Marktplaats")
 - [HPE - Hewlett Packard Enterprise](https://design-system.hpe.design/ "HP Enterprise")
