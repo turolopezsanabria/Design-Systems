@@ -111,6 +111,7 @@
 - [Oxygen - Repsol](https://digitalsystem.repsol.com/ "Oxygen - Repsol")
 - [Pajamas - Gitlab](https://design.gitlab.com/#/ "Pajamas - Gitlab")
 - [Palette - Artsy](https://palette.artsy.net/ "Palette - Artsy")
+- [Palmeto](https://ux.palmetto.com/ "Palmeto")
 - [Patterns - Mailchimp](https://ux.mailchimp.com/patterns "Patterns - Mailchimp")
 - [Patterns - City of Boston](https://patterns.boston.gov/ "Patterns - City of Boston")
 - [Pearson](https://uxframework.pearson.com/ "Pearson")
