@@ -68,6 +68,7 @@
 - [Frontier - FamilySearch](https://www.familysearch.org/frontier/styleguide/ "Frontier - FamilySearch")
 - [Future Learn](https://design-system.futurelearn.com/ "Future Learn")
 - [Galatea - Banc Sabadell](https://galatea.bancsabadell.com/ "Galatea - Banc Sabadell")
+- [Gamut - Codecademy](https://gamut.codecademy.com/ "Gamut - Codecademy")
 - [Garden Zendesk](https://garden.zendesk.com/ "Garden Zendesk")
 - [Gel - BBC](http://www.bbc.co.uk/gel/guidelines/category/foundations "Gel - BBC")
 - [Gestalt - Pinterest](https://pinterest.github.io/gestalt/#/ "Gestalt - Pinterest")
