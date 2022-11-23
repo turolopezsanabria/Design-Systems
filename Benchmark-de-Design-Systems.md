@@ -169,6 +169,7 @@
 - [Skin - eBay](https://ebay.github.io/skin/ "Skin - eBay")
 - [Skyline](https://skyline.benevity.org/)
 - [Solid - Buzzfeed](https://solid.buzzfeed.com/ "Solid - Buzzfeed")
+- [Source - The Guardian](https://theguardian.design/ "Source - The Guardian")
 - [SUI Components - Adevinta](https://sui-components.now.sh/ "SUI Components - Adevinta")
 - [Stacks- Stackoverflow](https://stackoverflow.design/ "Stacks- Stackoverflow")
 - [Starling - AOL](https://design.acl.com/page/Home "Starling - AOL")
