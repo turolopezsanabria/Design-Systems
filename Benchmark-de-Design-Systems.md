@@ -79,6 +79,7 @@
 - [Human Interface Guidelines - Apple](https://developer.apple.com/design "Human Interface Guidelines - Apple")
 - [JetBrains](https://jetbrains.github.io/ring-ui/master/index.html "JetBrains")
 - [Junipero - Poool](https://junipero.design/ "Junipero - Poool")
+- [Kaizen - Culture Amp](https://cultureamp.design/ "Kaizen - Culture Amp")
 - [Kalo](https://kalo.design/ "Kalo")
 - [Lexicon - Liferay](https://lexicondesign.io/ "Lexicon - Liferay")
 - [Lion - ING](https://lion-web-components.netlify.app/ "Lion - ING")
