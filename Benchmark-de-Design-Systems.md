@@ -176,6 +176,7 @@
 - [uStyle - uSwitch](https://ustyle.guide/ "UStyle - uSwitch")
 - [Vanilla - Ubuntu](https://docs.vanillaframework.io/en/ "Vanilla - Ubuntu")
 - [Vercel](https://vercel.com/design "Vercel")
+- [Vibe - Monday.com](https://style.monday.com/?path=/docs/welcome--page "Vibe - Monday.com")
 - [Vitamin - Decathlon](https://www.decathlon.design/ "Vitamin - Decathlon")
 - [Vitamin - Auna](https://vitamindesignsystem.auna.org/ "Vitamin - Auna")
 - [VTEX](https://styleguide.vtex.com/ "VTEX")
