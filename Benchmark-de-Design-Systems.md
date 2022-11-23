@@ -11,6 +11,7 @@
 - [Atlaskit - Atlassian](https://atlaskit.atlassian.com/ "Atlaskit - Atlassian")
 - [AT ui](https://at-ui.github.io/at-ui/#/en "AT ui")
 - [Auro - Alaska Airlines](https://auro.alaskaair.com/ "Auro - Alaska Airlines")
+- [Aurora - Government of Canada](https://design.gccollab.ca/ "Aurora - Government of Canada")
 - [Australian Government](https://designsystem.gov.au/ "Australian Government")
 - [AXA](https://design.axa.com/web-guidelines/ "AXA")
 - [Barnardo](https://design-system.barnardos.org.uk/ "Barnardo")
