@@ -111,6 +111,7 @@
 - [MixPanel](https://design.mixpanel.com/ "MixPanel")
 - [Mongo DB](http://mongodb.design/#/ui-design-system/welcome "Mongo DB")
 - [Morningstar](http://designsystem.morningstar.com/ "Morningstar")
+- [MUI](https://mui.com/ "MUI")
 - [Narmi](narmi.github.io/design_system "Narmi")
 - [Natura](https://natds-rn.natura.design/?path=/story/components-button--default "Natura")
 - [NordHealth](https://nordhealth.design/)
