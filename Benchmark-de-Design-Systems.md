@@ -38,6 +38,7 @@
 - [Chakra UI](https://chakra-ui.com/ "Chakra UI")
 - [Chameleon](https://pusher.github.io/chameleon/ "Chameleon")
 - [Chicago](https://design.chicago.gov/ "Chicago")
+- [Chipset](https://chipset.newhighsco.re/ "Chipset")
 - [Circuit - Sumup](https://circuit.sumup.com/ "Circuit - Sumup")
 - [Cirrus - Predix](https://www.predix-ui.com/#/home "Cirrus - Predix")
 - [Cisco](https://developer.cisco.com/site/uiux/)
