@@ -85,6 +85,7 @@
 - [Lightning - Salesforce](https://www.lightningdesignsystem.com/ "Lightning - Salesforce")
 - [Lucid-UI AppNexus](http://appnexus.github.io/lucid/ "Lucid-UI AppNexus")
 - [Luna - Sainsburys](https://luna.sainsburys.co.uk/ "Luna - Sainsburys")
+- [Lumo - Vaadin](https://vaadin.com/docs/latest/styling/lumo "Lumo - Vaadin")
 - [Mantine](https://mantine.dev/ "A fully featured React components and hooks library")
 - [Marvel](https://marvelapp.com/styleguide/overview/introduction "Marvel")
 - [Material-UI](https://material-ui.com/ "Material-UI")
