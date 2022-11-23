@@ -47,6 +47,7 @@
 - [Component Gallery](https://component.gallery/ "Component Gallery")
 - [Coop](https://coop-design-system.herokuapp.com/ "Coop")
 - [Copperleaf](https://design.copperleaf.cloud/ "Copperleaf")
+- [Coral - Talend](https://design.talend.com/?path=/docs/welcome--page&globals=theme:light "Coral - Talend")
 - [Cosmos - Pega](https://design.pega.com/ "Cosmos - Pega")
 - [Coursera](https://building.coursera.org/coursera-ui/ "Coursera")
 - [Duet - LocalTapiola and Turva](https://www.duetds.com/ "Duet")
