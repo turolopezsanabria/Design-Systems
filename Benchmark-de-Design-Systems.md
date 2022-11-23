@@ -144,6 +144,7 @@
 - [SUI Components - Adevinta](https://sui-components.now.sh/ "SUI Components - Adevinta")
 - [Stacks- Stackoverflow](https://stackoverflow.design/ "Stacks- Stackoverflow")
 - [Starling - AOL](https://design.acl.com/page/Home "Starling - AOL")
+- [Stratio](https://design.stratio.com/home "Stratio")
 - [Storybook DS](https://storybook-design-system.netlify.com/ "Storybook")
 - [Sundio](https://designsystem.sundiogroup.com/ "Sundio")
 - [Tachyons](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0 "Tachyons")
