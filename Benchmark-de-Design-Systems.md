@@ -68,6 +68,7 @@
 - [Docplanner](https://designsystem.docplanner.design/ "Docplanner")
 - [Duet - LocalTapiola and Turva](https://www.duetds.com/ "Duet")
 - [Duolingo](https://www.duolingo.com/design/ "Duolingo")
+- [eBay Kleinanzeigen](https://design.ebay-kleinanzeigen.de/ "eBay Kleinanzeigen")
 - [Elastic](https://elastic.github.io/eui/#/ "Elastic")
 - [Element](https://element.eleme.io/#/en-US "Element")
 - [Elisa](https://design.elisa.fi/ "Elisa")
