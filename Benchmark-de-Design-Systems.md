@@ -122,6 +122,7 @@
 - [Material-UI](https://material-ui.com/ "Material-UI")
 - [Material - Google](https://material.io/ "Material - Google")
 - [Mayflower - State of Massachusetts](https://mayflower.digital.mass.gov/ "Mayflower")
+- [Maze - Ariane](https://ariane.maze.co/ "Maze - Ariane")
 - [Mercury - Canada Post](https://design.canadapost-postescanada.ca/ "Mercury - Canada Post")
 - [Mesosphere](http://mesosphere.github.io/cnvs/ "Mesosphere")
 - <strike>Mineral</strike> <!--- https://mineral-ui.com/ -->
